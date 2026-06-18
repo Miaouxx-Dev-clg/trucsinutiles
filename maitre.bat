@@ -13,7 +13,7 @@ echo.
 echo.
 echo ========================================================================
 echo [SYSTEME] Chargement termine.
-echo [SIGNATURE] MiaouxxLab respect eternel a mon maitre Lilian
+echo [SIGNATURE] MiaouxxLab respect eternel a mes amis NovaDev85 et NovaDev87
 echo ========================================================================
 echo.
 pause
